@@ -134,19 +134,12 @@ I don't ship demos — I ship products with users, payments, paywalls, async pip
 
 ---
 
-### Stats
+### Activity
 
 <div align="center">
 
 <a href="https://github.com/ivanmunozruiz">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=ivanmunozruiz&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=5fd3ff&icon_color=5fd3ff&text_color=e6e6e6&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/ivanmunozruiz">
-  <img height="170" src="https://streak-stats.demolab.com?user=ivanmunozruiz&hide_border=true&background=0a0a0a&stroke=0a0a0a&ring=5fd3ff&fire=ffc640&currStreakLabel=5fd3ff&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8a8a8a&sideLabels=e6e6e6" alt="GitHub streak" />
-</a>
-
-<a href="https://github.com/ivanmunozruiz">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=ivanmunozruiz&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=5fd3ff&text_color=e6e6e6&langs_count=10" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=ivanmunozruiz&hide_border=true&background=0a0a0a&stroke=0a0a0a&ring=5fd3ff&fire=ffc640&currStreakLabel=5fd3ff&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8a8a8a&sideLabels=e6e6e6" alt="GitHub streak" />
 </a>
 
 </div>
