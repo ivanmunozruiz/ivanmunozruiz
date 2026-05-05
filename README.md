@@ -41,17 +41,17 @@ I don't ship demos — I ship products with users, payments, paywalls, async pip
     <tr>
       <td align="center">
         <a href="https://www.scancal.app">
-          <img src="https://www.ivanmr.dev/media/scancal-dashboard.webp" alt="ScanCal" width="100%" />
+          <img src="assets/scancal-icon.png" alt="ScanCal" width="180" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.contentdrop.app">
-          <img src="https://www.ivanmr.dev/media/contentdrop-og.png" alt="ContentDrop" width="100%" />
+          <img src="assets/contentdrop-icon.png" alt="ContentDrop" width="180" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.cuotia.com">
-          <img src="https://www.ivanmr.dev/media/cuotia-dashboard.png" alt="Cuotia" width="100%" />
+          <img src="assets/cuotia-icon.png" alt="Cuotia" width="180" />
         </a>
       </td>
     </tr>
