@@ -139,7 +139,7 @@ I don't ship demos — I ship products with users, payments, paywalls, async pip
 <div align="center">
 
 <a href="https://github.com/ivanmunozruiz">
-  <img src="https://streak-stats.demolab.com?user=ivanmunozruiz&hide_border=true&background=0a0a0a&stroke=0a0a0a&ring=5fd3ff&fire=ffc640&currStreakLabel=5fd3ff&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8a8a8a&sideLabels=e6e6e6" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ivanmunozruiz&hide_border=true&background=0a0a0a&stroke=0a0a0a&ring=5fd3ff&fire=ffc640&currStreakLabel=5fd3ff&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8a8a8a&sideLabels=e6e6e6&theme=transparent" alt="GitHub streak" />
 </a>
 
 </div>
