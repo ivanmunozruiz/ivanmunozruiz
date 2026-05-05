@@ -134,18 +134,6 @@ I don't ship demos — I ship products with users, payments, paywalls, async pip
 
 ---
 
-### Activity
-
-<div align="center">
-
-<a href="https://github.com/ivanmunozruiz">
-  <img src="https://streak-stats.demolab.com/?user=ivanmunozruiz&hide_border=true&background=0a0a0a&ring=5fd3ff&fire=ffc640&currStreakLabel=5fd3ff&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8a8a8a&sideLabels=e6e6e6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <sub>Built end to end. Operated 24/7. <a href="https://ivanmr.dev">See it alive at <strong>ivanmr.dev</strong></a>.</sub>
